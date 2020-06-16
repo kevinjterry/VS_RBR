@@ -1,0 +1,28 @@
+OLED Display
+    SDA	21
+	SCL	22
+	3V	3V
+	G	G
+		
+Encoder Display
+    CLK	27
+	DT	13
+	SW	18
+	3V	3V
+	G	G
+		
+Encoder Wheel
+    CLK	32
+	DT	33
+	SW	25
+	3V	3V
+	G	G
+		
+Motor Coontroller
+    PWM	2
+	DIR	4
+	G	G
+		
+Regulator
+    G	G
+	12V	Vin
